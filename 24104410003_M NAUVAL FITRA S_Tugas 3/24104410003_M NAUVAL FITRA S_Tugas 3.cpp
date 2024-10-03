@@ -20,4 +20,5 @@ int main()
         }
     }
     cout << "\n\nSekian dari saya\nTerima Kasih";
+return 0;
 }
